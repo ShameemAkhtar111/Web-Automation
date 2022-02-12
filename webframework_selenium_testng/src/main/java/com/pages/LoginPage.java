@@ -7,7 +7,6 @@ import com.framework.ElementFunctions;
 import com.util.ReportUtils;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebDriverInfo;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
